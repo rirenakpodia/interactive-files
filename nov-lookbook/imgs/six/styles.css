@@ -1,0 +1,67 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: relative; 
+   margin-left: auto; 
+   margin-right: auto; 
+   width: 798px;
+   height: 600px; 
+   overflow: hidden;
+   z-index:0;
+  } 
+
+ #Background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: absolute; 
+   width: 798px;
+   height: 600px;
+   z-index:1;
+} 
+
+ #ellipse6 
+{ 
+   left: -19px; 
+   top: 118px; 
+   position: absolute; 
+   width: 183px;
+   height: 183px;
+   z-index:2;
+} 
+
+ #left6 
+{ 
+   left: 25px; 
+   top: -5px; 
+   position: absolute; 
+   width: 561px;
+   height: 727px;
+   z-index:3;
+} 
+
+ #righ6 
+{ 
+   left: 87px; 
+   top: -208px; 
+   position: absolute; 
+   width: 984px;
+   height: 1319px;
+   z-index:4;
+} 
+
+ #copy6 
+{ 
+   left: 259px; 
+   top: 326px; 
+   position: absolute; 
+   width: 233px;
+   height: 251px;
+   z-index:5;
+} 

@@ -1,0 +1,29 @@
+*{
+  margin : 0;
+  padding : 0; 
+}
+
+#page{
+  position : absolute;
+  width : 798px;
+  height : 600px;
+  
+  overflow : hidden;
+}
+.look-1, .look-2, .look-3, .look-4, .look-5, .look-6 {
+  
+}
+#arrow-left {
+  position : absolute;
+  left : 0px;
+  top : 260px; 
+  z-index : 1000;
+  cursor : pointer;
+}
+#arrow-right {
+  position : absolute;
+  left : 763px;
+  top : 260px; 
+  z-index : 1000;
+  cursor : pointer;
+}

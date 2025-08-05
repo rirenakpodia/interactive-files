@@ -1,0 +1,77 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: relative; 
+   margin-left: auto; 
+   margin-right: auto; 
+   width: 798px;
+   height: 600px; 
+   overflow: hidden;
+   z-index:0;
+  } 
+
+ #Background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: absolute; 
+   width: 798px;
+   height: 600px;
+   z-index:1;
+} 
+
+ #ellipse5 
+{ 
+   left: 235px; 
+   top: -48px; 
+   position: absolute; 
+   width: 121px;
+   height: 121px;
+   z-index:2;
+} 
+
+ #left5 
+{ 
+   left: -25px; 
+   top: -18px; 
+   position: absolute; 
+   width: 426px;
+   height: 639px;
+   z-index:3;
+} 
+
+ #xoxo 
+{ 
+   left: 406px; 
+   top: 97px; 
+   position: absolute; 
+   width: 386px;
+   height: 386px;
+   z-index:4;
+} 
+
+ #righ5 
+{ 
+   left: 475px; 
+   top: -8px; 
+   position: absolute; 
+   width: 368px;
+   height: 619px;
+   z-index:5;
+} 
+
+ #copy5 
+{ 
+   left: 226px; 
+   top: 429px; 
+   position: absolute; 
+   width: 275px;
+   height: 275px;
+   z-index:6;
+} 

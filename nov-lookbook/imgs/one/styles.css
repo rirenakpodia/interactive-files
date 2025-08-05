@@ -1,0 +1,77 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: relative; 
+   margin-left: auto; 
+   margin-right: auto; 
+   width: 798px;
+   height: 600px; 
+   overflow: hidden;
+   z-index:0;
+  } 
+
+ #Background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: absolute; 
+   width: 798px;
+   height: 600px;
+   z-index:1;
+} 
+
+ #ellipse1 
+{ 
+   left: 527px; 
+   top: 397px; 
+   position: absolute; 
+   width: 111px;
+   height: 111px;
+   z-index:2;
+} 
+
+ #sochill 
+{ 
+   left: 330px; 
+   top: 21px; 
+   position: absolute; 
+   width: 271px;
+   height: 272px;
+   z-index:3;
+} 
+
+ #right1 
+{ 
+   left: 572px; 
+   top: 0px; 
+   position: absolute; 
+   width: 226px;
+   height: 600px;
+   z-index:4;
+} 
+
+ #left1 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: absolute; 
+   width: 395px;
+   height: 600px;
+   z-index:5;
+} 
+
+ #copy1 
+{ 
+   left: -44px; 
+   top: 396px; 
+   position: absolute; 
+   width: 280px;
+   height: 280px;
+   z-index:6;
+} 

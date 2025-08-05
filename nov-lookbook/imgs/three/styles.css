@@ -1,0 +1,67 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: relative; 
+   margin-left: auto; 
+   margin-right: auto; 
+   width: 798px;
+   height: 600px; 
+   overflow: hidden;
+   z-index:0;
+  } 
+
+ #Background 
+{ 
+   left: 0px; 
+   top: 0px; 
+   position: absolute; 
+   width: 798px;
+   height: 600px;
+   z-index:1;
+} 
+
+ #left3 
+{ 
+   left: -9px; 
+   top: -48px; 
+   position: absolute; 
+   width: 472px;
+   height: 692px;
+   z-index:2;
+} 
+
+ #cozy 
+{ 
+   left: 346px; 
+   top: 131px; 
+   position: absolute; 
+   width: 281px;
+   height: 281px;
+   z-index:3;
+} 
+
+ #right3 
+{ 
+   left: 551px; 
+   top: 0px; 
+   position: absolute; 
+   width: 580px;
+   height: 713px;
+   z-index:4;
+} 
+
+ #copy3 
+{ 
+   left: 32px; 
+   top: 457px; 
+   position: absolute; 
+   width: 215px;
+   height: 215px;
+   z-index:5;
+} 
